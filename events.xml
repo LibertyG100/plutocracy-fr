@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <events>
     <event>
-        <text id="1" need_translate="true" value=""/>
+        <text id="1" need_translate="true" value="Pendant la fête un de vos invités a bu trop d'alcool et commence à insulter les amis de votre femme. Que faites-vous ?"/>
         <text id="10" need_translate="true" value=""/>
         <text id="10_header" need_translate="true" value=""/>
         <text id="11" need_translate="true" value=""/>
