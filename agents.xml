@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <agents>
     <agent_class>
-        <text id="class_1" need_translate="true" value=""/>
-        <text id="class_2" need_translate="true" value=""/>
-        <text id="class_3" need_translate="true" value=""/>
-        <text id="class_4" need_translate="true" value=""/>
-        <text id="class_5" need_translate="true" value=""/>
-        <text id="class_6" need_translate="true" value=""/>
-        <text id="class_7" need_translate="true" value=""/>
-        <text id="class_8" need_translate="true" value=""/>
+        <text id="class_1" need_translate="true" value="Homme de main"/>
+        <text id="class_2" need_translate="true" value="Courtisant"/>
+        <text id="class_3" need_translate="true" value="Détective"/>
+        <text id="class_4" need_translate="true" value="Journaliste"/>
+        <text id="class_5" need_translate="true" value="Gangster"/>
+        <text id="class_6" need_translate="true" value="Tueur à gages"/>
+        <text id="class_7" need_translate="true" value="Diplomate"/>
+        <text id="class_8" need_translate="true" value="Financier"/>
         <text id="no_data" need_translate="true" value=""/>
     </agent_class>
     <agent_result>
