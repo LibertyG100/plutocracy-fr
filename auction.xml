@@ -2,8 +2,8 @@
 <auction>
     <common>
         <text id="text_2" need_translate="true" value=""/>
-        <text id="text_3" need_translate="true" value=""/>
-        <text id="text_start" need_translate="true" value=""/>
-        <text id="text_win" need_translate="true" value=""/>
+        <text id="text_3" need_translate="true" value="Nous avons %BID ici !"/>
+        <text id="text_start" need_translate="true" value="Nous sommes à %BID !"/>
+        <text id="text_win" need_translate="true" value="et vendu pour %BID !"/>
     </common>
 </auction>
